@@ -8,10 +8,10 @@
                     <div class="large-4 columns">
                         <!--                            <h5>FLICKR IMAGES</h5>-->
                         <div class="row small-up-4">
-                            <div class="column"><img class="thumbnail" src="img/footer_logo.png" alt="image of space dog" style="border: 0;"></div>
+                            <div class="column"><img class="thumbnail" src="img/logo.png" alt="image of space dog" style="border: 0;"></div>
 
                         </div>
-                        <p style="color:#fff;">সম্পাদক : আরিফুর রহমান</p>
+                        <p style="color:#fff;">সম্পাদক : এস.এম.মনির</p>
                     </div>
                     <div class="large-4 columns">
                         <!--                            <h5>FLICKR IMAGES</h5>-->
@@ -57,12 +57,13 @@
 
                     <div class="large-4 columns" style="color:#fff;">
                         <h5>যোগাযোগ</h5>
-                        <p>৪৪, ইস্কাটন গার্ডেন, রমনা, ঢাকা-১০০০
-                            ফোন: ৮৩১৪৯০১, ৮৩১৮৮৬৭, ফ্যাক্স : +৮৮-০২-৮৩১৮০৪৩
-                            ই-মেইল: editor@dhakatimes24.com, info@dhakatimes24.com
-                            নিউজের জন্য: dhakatimes24@yahoo.com
+                        <p>সেবা মানবিক উন্নয়ন কেন্দ্র, উত্তর রামপুর, কুমিল্লা। 
+                        <br>মোবাইল নং ০১৭৯৯১৮৪৯১৬
+                         <br>   
+                            ই-মেইল: editor@mainamatinews24.com, info@mainamatinews24.com
+                            <br>নিউজের জন্য: mainamatinews24.com@gmail.com
                             <br>
-                            Developed by: Munira</p>
+                            Developed by: <a href="http://skeletonit.com/" traget="_blank">  Skeletonit</a></p>
                     </div>
                 </div>
                 <!--                    <div class="row expanded" style="padding:10px 0; font-size:11px; padding:5px 15px; overflow:hidden; color:#fff;">
