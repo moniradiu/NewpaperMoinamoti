@@ -72,24 +72,11 @@
                                                                             <li><a href="#">Three</a></li>
                                                                         </ul>-->
                             </li>
-                            
                         </ul>
                     </div>
                 </div>
             </div>
             <!--menu end here-->
-
-
-
-
-
-
-
-
-
-
-
-
 <style>
 .top-bar-section ul li:hover:not(.has-form) > a {
     background: none repeat scroll 0 0 RED;
@@ -111,18 +98,7 @@
     color: #FFFFFF;
 }
 
-
 </style>
-
-
-
-
-
-
-
-
-
-
         </div>
     </div> <!--section 2 end here-->
 </section>

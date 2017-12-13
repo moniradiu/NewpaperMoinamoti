@@ -461,12 +461,10 @@ inline-list > li > fi-social{
     transition: all 0.5s ease-out;
     text-transform: uppercase;
     float: left;
-
 }
 .title-bar-title{
     color: #fff;
     background: #81b752;
-
     padding: 4px 15px;
     font-size: 14px;
 
