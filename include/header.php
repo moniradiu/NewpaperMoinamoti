@@ -84,7 +84,7 @@
                     <div class="grid-x header-logo-add">
                         <!--logo start here-->
                         <div class="cell large-5  small-full">
-                            <img src="img/logo52.png" class="responsive" alt="logo">
+                            <img src="img/logo.png" class="responsive" alt="logo">
                         </div> <!--logo end here-->
                         <div class="cell large-7  small-full">
                             <img src="img/banner1.gif" class="responsive" alt="ads-image">

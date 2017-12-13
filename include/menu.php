@@ -9,7 +9,7 @@
                         <button class="menu-icon" type="button" data-toggle></button>
                         <div class="title-bar-title">Menu</div>
                     </div>
-                    <div class="top-bar" id="main-menu">
+                    <div class="top-bar-section" id="main-menu">
                         <ul class="menu vertical medium-horizontal expanded medium-text-center" data-responsive-menu="drilldown medium-dropdown" style="background-color:#3E454C;">
                             <li><a href="index.php"><i class="fa fa-home" style="font-size: 15px;"></i></a></li>
 
@@ -33,11 +33,63 @@
                                 </ul>
                             </li>
                             <li class="has-submenu activee"><a href="#">যোগাযোগ</a></li>
+                            <li class="has-submenu"><a href="#">যোগাযোগ</a>
+                                <!--                                        <ul class="submenu menu vertical" data-submenu>
+                                                                            <li><a href="#">One</a></li>
+                                                                            <li><a href="#">Two</a></li>
+                                                                            <li><a href="#">Three</a></li>
+                                                                        </ul>-->
+                            </li>
+                            
                         </ul>
                     </div>
                 </div>
             </div>
             <!--menu end here-->
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.top-bar-section ul li:hover:not(.has-form) > a {
+    background: none repeat scroll 0 0 RED;
+    color: #FFFFFF;
+}
+.top-bar-section li.hover > a:not(.button) {
+    background: none repeat scroll 0 0 RED;
+    color: #FFFFFF;
+}
+.top-bar-section li:not(.has-form) a:hover:not(.button) {
+    background: none repeat scroll 0 0 RED;
+}
+.top-bar-section .dropdown li:hover:not(.has-form) > a:not(.button) {
+    background: none repeat scroll 0 0 RED;
+    color: #FFFFFF;
+}
+.no-js .top-bar-section ul li:hover > a {
+    background: none repeat scroll 0 0 RED;
+    color: #FFFFFF;
+}
+
+
+</style>
+
+
+
+
+
+
+
+
+
 
         </div>
     </div> <!--section 2 end here-->
