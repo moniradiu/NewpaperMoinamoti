@@ -6,7 +6,7 @@
                     <div class="grid-x header-slice-menu">
 
                         <!--headline start here-->
-                        <div class="cell large-6 small-full">
+                        <div class="cell large-6">
                             <div class="grid-x">
                                 <div class="cell small-12 medium-3 large-3 top-nav theme-color">
                                     <i class="fa fa-refresh fa-spin fa-fw"></i> <span> Headlines of news</span>
@@ -70,6 +70,15 @@
                         <!--Search Bar end here-->
 
                     </div><!--top head end here-->
+                </div>
+            </div><!--section 1 end here-->
+        </section>            
+
+    
+
+        <section class="part-1">
+            <div class="grid-x"><!--section 1 start here-->
+                <div class="large-10 large-offset-1 small-12 medium-12" >                
 
                     <!--logo and Ads start here-->
                     <div class="grid-x header-logo-add">

@@ -23,9 +23,6 @@
 .header-slice-menu
 {
     background: #F0F1F3;
-    height: 35px;
-
-
 }
 /*manu css start here*/
 .header-menu-custom{
@@ -34,8 +31,8 @@
 
 }
 .has-submenu{
-    float: left;
-    display: inline;
+    /* float: left; */
+    display: inline-block;
     position: relative;
     font-size: 14px;
     font-weight: 400;
@@ -52,16 +49,12 @@
 
 .vertical{
     background: #3E454C;
-  
+
 }
 .vertical li a{
     color:#fff;
-
 }
-.header-menu-custom :hover{
-    background:  #84DD37;
 
-}
 .has-submenu{
     float: left;
     display: inline;
@@ -244,7 +237,7 @@ a:hover, a:active {
 .inline-list > li{
     display: none; 
 }
-inline-list > li > fi-social{
+.inline-list > li > fi-social{
     font-size: 80px;
 }
 /*head line css end here*/
@@ -450,7 +443,7 @@ inline-list > li > fi-social{
     width: 900px;
 }
 .title-bar{
-    background: url(https://lh3.googleusercontent.com/-Dm8yPXEZEb8/U2qdIaxbm4I/AAAAAAAAEEs/nNS9zkdI8UQ/h120/dot.png);
+    /*background: url(https://lh3.googleusercontent.com/-Dm8yPXEZEb8/U2qdIaxbm4I/AAAAAAAAEEs/nNS9zkdI8UQ/h120/dot.png);*/
     width: 100%;
     position: relative;
     overflow: hidden;
@@ -608,7 +601,7 @@ inline-list > li > fi-social{
 }
 .ads-style{
     width: 500px; 
-    height: 250;
+    height: 250px;
     padding: 10px;
     padding-left: 0px;
 }
@@ -683,7 +676,7 @@ inline-list > li > fi-social{
     color: #fff;
     float: left;
     width: 40%;
-  
+
 }
 .list-all ul li a{
     color:#fff;
@@ -840,7 +833,7 @@ ul.social li a:hover i { -moz-transform: rotate(360deg); -webkit-transform: rota
 /*details css start here*/
 .side-news45{
     display: block;
-   
+
     font-weight: 400; 
     line-height: 1.4; 
     color: #2D2D2D !important;
@@ -852,3 +845,55 @@ ul.social li a:hover i { -moz-transform: rotate(360deg); -webkit-transform: rota
 /*details css end here*/
 
 
+/*fkhrl*/
+.menu .submenu > li > a {
+    background-color: #4D4D4D;
+}
+.menu .submenu > li > a:hover {
+    background-color: #f00;
+}
+
+.menu .activee a{
+    background-color: #84DD37 !important;
+}
+
+
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+    .vertical li a {
+        background-color: #3E454C;
+    }
+    .header-menu-custom :hover{
+        background:  #0a0a0;
+    }
+}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {
+    .vertical li a {
+        background-color: #3E454C;
+;
+    }
+    .header-menu-custom :hover{
+        background:  #0a0a0;
+    }
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {}
+
+/* Large and up */
+@media screen and (min-width: 64em) {}
+.header-menu-custom :hover{
+    background:  #84DD37;
+}
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+    .header-menu-custom :hover{
+        background:  #84DD37;
+    }
+    .vertical li a {
+        background-color: none;
+    }
+}

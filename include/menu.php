@@ -11,18 +11,9 @@
                     </div>
                     <div class="top-bar" id="main-menu">
                         <ul class="menu vertical medium-horizontal expanded medium-text-center" data-responsive-menu="drilldown medium-dropdown" style="background-color:#3E454C;">
-                            <li style="background-color: #84DD37; font-size: 11px; text-align: left; display: block; line-height: 45px;">
+                            <li><a href="index.php"><i class="fa fa-home" style="font-size: 15px;"></i></a></li>
 
-                                <a href="index.php" style="     height: 35px; font-size: 13px;font-weight: 600;  padding: 0 10px;    line-height: 35px;"><i class="fa fa-home"></i>প্রচ্ছদ</a></li>
-
-                            <li class="has-submenu"><a href="#" >জাতীয়
-                                </a>
-                                <!--                                        <ul class="submenu menu vertical" data-submenu>
-                                                                            <li><a href="category.php">Category</a></li>
-                                                                            <li><a href="details.php">Details</a></li>
-                                                                            <li><a href="#">Three</a></li>
-                                                                        </ul>-->
-                            </li>
+                            <li class="has-submenu"><a href="#" >জাতীয় </a> </li>
                             <li class="has-submenu"><a href="#">সারাদেশ</a>
                                 <ul class="submenu menu vertical" data-submenu>
                                     <li><a href="#">One</a></li>
@@ -30,34 +21,10 @@
                                     <li><a href="#">Three</a></li>
                                 </ul>
                             </li>
-                            <li class="has-submenu"><a href="#">রাজনীতি</a>
-                                <!--                                        <ul class="submenu menu vertical" data-submenu>
-                                                                            <li><a href="#">One</a></li>
-                                                                            <li><a href="#">Two</a></li>
-                                                                            <li><a href="#">Three</a></li>
-                                                                        </ul>-->
-                            </li>
-                            <li class="has-submenu"><a href="#">আন্তর্জাতিক</a>
-                                <!--                                        <ul class="submenu menu vertical" data-submenu>
-                                                                            <li><a href="#">One</a></li>
-                                                                            <li><a href="#">Two</a></li>
-                                                                            <li><a href="#">Three</a></li>
-                                                                        </ul>-->
-                            </li>
-                            <li class="has-submenu"><a href="#">খেলাধুলা</a>
-                                <!--                                        <ul class="submenu menu vertical" data-submenu>
-                                                                            <li><a href="#">One</a></li>
-                                                                            <li><a href="#">Two</a></li>
-                                                                            <li><a href="#">Three</a></li>
-                                                                        </ul>-->
-                            </li>
-                            <li class="has-submenu"><a href="#">বিনোদন</a>
-                                <!--                                        <ul class="submenu menu vertical" data-submenu>
-                                                                            <li><a href="#">One</a></li>
-                                                                            <li><a href="#">Two</a></li>
-                                                                            <li><a href="#">Three</a></li>
-                                                                        </ul>-->
-                            </li>
+                            <li class="has-submenu"><a href="#">রাজনীতি</a> </li>
+                            <li class="has-submenu"><a href="#">আন্তর্জাতিক</a></li>
+                            <li class="has-submenu"><a href="#">খেলাধুলা</a></li>
+                            <li class="has-submenu"><a href="#">বিনোদন</a></li>
                             <li class="has-submenu"><a href="#">অন্যান্য</a>
                                 <ul class="submenu menu vertical" data-submenu>
                                     <li><a href="#">One</a></li>
@@ -65,13 +32,7 @@
                                     <li><a href="#">Three</a></li>
                                 </ul>
                             </li>
-                            <li class="has-submenu"><a href="#">যোগাযোগ</a>
-                                <!--                                        <ul class="submenu menu vertical" data-submenu>
-                                                                            <li><a href="#">One</a></li>
-                                                                            <li><a href="#">Two</a></li>
-                                                                            <li><a href="#">Three</a></li>
-                                                                        </ul>-->
-                            </li>
+                            <li class="has-submenu activee"><a href="#">যোগাযোগ</a></li>
                         </ul>
                     </div>
                 </div>
